@@ -1,0 +1,18 @@
+.login-page {
+  background-color: #f8f9fa;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.animation-container {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+@media (max-width: 991.98px) {
+  .card {
+    border-radius: 1rem;
+  }
+}
